@@ -6,6 +6,10 @@
   <img src="Mahmudul-Hasan-Tonmoy.png" width="100%">
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_on_Projects-brightgreen?style=flat-square&logo=github" /> 
+  <img src="https://raw.githubusercontent.com/khalby71/khalby71/main/assets/ping.gif" width="15px">
+</p>
+<p align="center">
   <a href="https://github.com/mahmudul-Hasan-2">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -33,10 +37,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,nextjs,express&theme=dark" />
 </p>
 
 ### 🛠️ Skills & Technologies
