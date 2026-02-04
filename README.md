@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;Next.js+and+Node.js+Enthusiast" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="Mahmudul-Hasan-Tonmoy.png" width="100%">
 </p>
@@ -41,10 +43,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;Next.js+and+Node.js+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
