@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/mahmudul-Hasan-2/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 ---
 
