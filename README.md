@@ -35,6 +35,10 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,react,nextjs,express&theme=dark" />
+</p>
+
 ### 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
