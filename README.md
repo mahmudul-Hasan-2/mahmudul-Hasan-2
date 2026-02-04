@@ -54,9 +54,10 @@
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=tokyonight)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=radical" alt="mahmudul-Hasan-2 trophies" />
-</p>
+### 🏆 Achievements & Skills
+![GitHub](https://img.shields.io/badge/Main_Profile-Verified-brightgreen?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-Active-orange?style=for-the-badge&logo=git)
+![Learning](https://img.shields.io/badge/Learning-Next.js_&_Node-blue?style=for-the-badge&logo=nextdotjs)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&animation=fadeIn" />
