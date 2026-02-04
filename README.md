@@ -54,7 +54,9 @@
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=radical&column=3)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=radical" alt="mahmudul-Hasan-2 trophies" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&animation=fadeIn" />
