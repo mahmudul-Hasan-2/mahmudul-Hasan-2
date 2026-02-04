@@ -28,6 +28,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudul-Hasan-2&theme=radical" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mahmudul-Hasan-2/count.svg" alt="Visitor Counter" />
+</p>
 ---
 
 ### 🚀 My Tech Stack
