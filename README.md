@@ -1,7 +1,4 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=339933&center=true&vCenter=true&width=500&height=50&lines=🚀+105+Visitors+Reached!;💻+Solving+JS+Challenges;🔥+Learning+Next.js;✨+Building+Premium+Apps" alt="Vertical Scroll" />
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=120&section=header&text=Welcome%20to%20my%20World&fontSize=50" width="100%" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+I'm+Mahmudul+Hasan;Full+Stack+Developer;Next.js+and+Node.js+Enthusiast" alt="Typing SVG" />
