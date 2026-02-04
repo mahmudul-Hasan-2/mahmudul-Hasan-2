@@ -18,13 +18,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical" alt="Mahmud's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahmudul-Hasan-2&theme=radical" alt="Profile Details" />
+</p>
 ---
 
 ### 🚀 My Tech Stack
