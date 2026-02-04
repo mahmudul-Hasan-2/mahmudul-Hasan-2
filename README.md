@@ -42,6 +42,23 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <b>"Coding is the art of turning logic into reality."</b> <br>
+  Thank you for stopping by! Feel free to explore my repositories or reach out for collaborations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mahmudul-Hasan-2">
+    <img src="https://visit-counter.vercel.app/card?title=Profile%20Views&name=mahmudul-Hasan-2&show=all&theme=dark" alt="Counter" />
+  </a>
+</p>
 ---
 
 ### 🚀 My Tech Stack
