@@ -53,19 +53,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>"Coding is the art of turning logic into reality."</b> <br>
-  Thank you for stopping by! Feel free to explore my repositories or reach out for collaborations.
+  <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mahmudul-Hasan-2">
-    <img src="https://visit-counter.vercel.app/card?title=Profile%20Views&name=mahmudul-Hasan-2&show=all&theme=dark" alt="Counter" />
-  </a>
+  <i>"Coding is the art of turning logic into reality."</i> <br>
+  <b>Thank you for exploring my profile!</b> <br>
+  I'm always open to interesting projects and collaborations. Feel free to reach out!
 </p>
 <!--
 **mahmudul-Hasan-2/mahmudul-Hasan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
