@@ -51,7 +51,7 @@
 * **Building a Netflix Clone Project 🎬**
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="200" alt="US Flag">
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/us.svg" width="150" style="border-radius: 10px;" alt="US Flag">
 </p>
 
 ---
