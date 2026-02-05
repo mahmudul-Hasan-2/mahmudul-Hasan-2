@@ -40,6 +40,18 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
+## 🎯 Future Targets
+
+* **Mastering JavaScript & Backend Logic** 🚀
+* **Building a Netflix Clone Project** 🎬
+* **Learning Professional Web Architecture** 🛠️
+
+<p align="center">
+  <img src="https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCei707860mXha.png" width="400" alt="Netflix">
+</p>
+
+---
+
 ### 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
