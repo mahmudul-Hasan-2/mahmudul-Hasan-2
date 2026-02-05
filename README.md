@@ -62,13 +62,9 @@
 
 ---
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Let's%20Code%20My%20Career&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Target:%20Remote%20Job%20in%20USA%20🇺🇸&descAlignY=62&descSize=25" />
 </p>
----
-
 ---
 
 ## 🎯 Future Targets
@@ -93,7 +89,6 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
 ---
 
 ### 🚀 My Tech Stack
