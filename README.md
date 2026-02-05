@@ -40,17 +40,17 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Current%20Target:%20US%20Remote%20Job%20🇺🇸&fontSize=45&animation=fadeIn" />
-</p>
-
 ## 🎯 Current Focus
 
 * **Landing a Remote Developer Role in the US 🇺🇸 💻**
 * **Mastering Advanced JavaScript & Scalable Logic 🚀**
 * **Building a Netflix Clone Project 🎬**
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Target:%20US%20Remote%20Job%20🇺🇸&fontSize=50&animation=fadeIn" />
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="200" alt="US Flag">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Current%20Target:%20US%20Remote%20Job%20🇺🇸&fontSize=45&animation=fadeIn" />
+</p>
 
 ---
 
