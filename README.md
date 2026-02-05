@@ -40,6 +40,18 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
+## 🎯 Current Target
+
+* **Landing a Remote Developer Role in the US 🇺🇸 💻**
+* **Building a Netflix Clone Project 🎬**
+* **Mastering Advanced JavaScript & Web Architecture 🚀**
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="300" alt="Netflix">
+</p>
+
+---
+
 ## 🎯 Future Targets
 
 * **Mastering JavaScript & Backend Logic** 🚀
