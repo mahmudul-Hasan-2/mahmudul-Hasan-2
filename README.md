@@ -50,6 +50,8 @@
 * **Mastering Advanced JavaScript & Scalable Logic 🚀**
 * **Building a Netflix Clone Project 🎬**
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Target:%20US%20Remote%20Job%20🇺🇸&fontSize=50&animation=fadeIn" />
+
 ---
 
 ---
