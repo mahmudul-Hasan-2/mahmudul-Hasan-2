@@ -40,15 +40,21 @@
   <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Visitor Counter" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Let's%20Code%20My%20Career&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Target:%20Remote%20Job%20in%20USA%20🇺🇸&descAlignY=62&descSize=25" />
+</p>
+
 ## 🎯 Current Target
 
 * **Landing a Remote Developer Role in the US 🇺🇸 💻**
-* **Building a Netflix Clone Project 🎬**
-* **Mastering Advanced JavaScript & Web Architecture 🚀**
+* **Mastering Advanced JavaScript & Scalable Logic 🚀**
+* **Building Impactful Global Projects 🌍**
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="300" alt="Netflix">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="200" alt="US Flag">
 </p>
+
+---
 
 ---
 
