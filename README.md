@@ -47,7 +47,7 @@
 * **Learning Professional Web Architecture** 🛠️
 
 <p align="center">
-  <img src="https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCei707860mXha.png" width="400" alt="Netflix">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="300" alt="Netflix">
 </p>
 
 ---
