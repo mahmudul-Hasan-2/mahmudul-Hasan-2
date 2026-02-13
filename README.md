@@ -59,10 +59,35 @@
 
 ---
 
-### 🌐 Open Source & Collaboration
-- 🤝 Open to collaborating on **Go-based systems** and **Distributed Infrastructure**.
-- 📧 **Direct Inquiry:** [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
-- 🌏 **Availability:** Global Remote / Relocation for Elite Engineering Roles.
+---
+
+### 🏛️ Distributed Systems & Architecture focus
+* **System Design:** Designing for high availability, fault tolerance, and low latency.
+* **Database Engineering:** Deep understanding of SQL/NoSQL, Indexing strategies, and Query Optimization.
+* **Scalability:** Implementing horizontal scaling, load balancing, and efficient caching layers.
+* **Observability:** Monitoring system health using logging, metrics, and distributed tracing.
+
+---
+
+### 🔬 Research & Deep-Dive (2026 Goals)
+- [ ] **Go Runtime:** Mastering memory management, stack vs heap, and GC tuning.
+- [ ] **Networking:** Studying L4/L7 protocols and building custom TCP/UDP servers.
+- [ ] **Consensus Algorithms:** Exploring Raft and Paxos for distributed state management.
+- [ ] **Cloud-Native:** Moving from monolithic thinking to resilient Microservices architecture.
+
+---
+
+### 🛠️ Strategic Engineering Toolkit
+* **Standards:** 100% committed to **SOLID**, **DRY**, and **Clean Code** principles.
+* **Workflow:** Agile methodology with a focus on **Test-Driven Development (TDD)**.
+* **Security:** Implementing OAuth2, JWT, and mTLS for secure service communication.
+
+---
+
+### 🤝 Professional Collaboration & Contact
+* 🚀 I am actively looking for **Open Source** projects to contribute to, especially in the Go ecosystem.
+* 📫 Reach me via Email: [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
+* 💬 Ask me about: **Backend Architecture, Concurrency, and System Performance.**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=60&section=footer" />
