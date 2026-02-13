@@ -89,6 +89,29 @@
 * 📫 Reach me via Email: [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
 * 💬 Ask me about: **Backend Architecture, Concurrency, and System Performance.**
 
+---
+
+### 📂 Open Source Ecosystem Contributions
+* **Backend Libraries:** Building and maintaining lightweight Go modules for concurrency management.
+* **Bug Squashing:** Actively identifying and reporting vulnerabilities in distributed systems.
+* **Community Guidance:** Reviewing architecture designs for peer developers in global dev communities.
+
+---
+
+### 🏆 Engineering Philosophy & Work Ethic
+> "I don't just write code; I design systems that live and breathe under pressure."
+
+* **Ownership:** Taking full responsibility for the entire lifecycle of a feature—from RFC to deployment.
+* **Discipline:** 8+ hours of deep, focused engineering daily, bypassing the noise of traditional paths.
+* **Continuous Refactoring:** A firm believer that code is never finished, only improved.
+
+---
+
+### 📈 Beyond the Code: Technical Reading List
+* 📖 **Designing Data-Intensive Applications** by Martin Kleppmann (Current Study).
+* 📖 **Clean Architecture** by Robert C. Martin.
+* 📖 **Go Programming Language** by Alan A. A. Donovan.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=60&section=footer" />
 </p>
