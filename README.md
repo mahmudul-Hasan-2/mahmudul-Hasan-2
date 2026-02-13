@@ -22,12 +22,14 @@ I am a 14-year-old developer from Bangladesh, dedicated to mastering the art of 
 ---
 
 ### 📊 GitHub Activity
-![Tanmoy's Stats](https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight" alt="Tanmoy's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
 ---
 
 ### 📫 Contact
-- 📧 **Email:** [mahmudul5709@gmail.com]
+- 📧 **Email:** mahmudul5709@gmail.com
 
 *"The best way to predict the future is to create it."* 🚀
