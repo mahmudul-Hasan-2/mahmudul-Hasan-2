@@ -13,14 +13,14 @@ Driven by the challenge of building resilient, high-concurrency systems. As a 14
 | **Architecture** | Microservices, RESTful APIs, System Design, Design Patterns |
 | **Frontend** | React.js, Next.js (App Router), Tailwind CSS, Framer Motion |
 | **Databases** | PostgreSQL (Relational), Redis (Caching) |
-| **Infrastructure** | Docker, Nginx, Linux (Debian/Ubuntu), Git, GitHub Actions |
+| **Infrastructure** | Docker, Nginx, Git, GitHub Actions |
 
 ---
 
 ### 📖 Educational Journey & Self-Direction
 * **Formal Education:** None. I do not have a high school level or any formal institutional education.
 * **The Autodidact Path:** Mastering Computer Science through documentation, technical whitepapers, and building production-grade applications.
-* **Core Focus:** Currently deep-diving into Operating Systems, Networking (TCP/UDP), and Data Structures & Algorithms (DSA).
+* **Core Focus:** Currently deep-diving into Data Structures, Algorithms (DSA), and Backend Performance Optimization.
 
 ---
 
