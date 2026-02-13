@@ -48,14 +48,13 @@
 ---
 
 ### 📊 Engineering Metrics & Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
