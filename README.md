@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Engineer;Next.js+%26+MERN+Specialist;AI+Integration+Expert;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
 </p>
+---
+
+<p align="center">
+  <img src="MacBook Air - 1.png" alt="Tonmoy's Banner" width="100%">
+</p>
 
 ---
 
