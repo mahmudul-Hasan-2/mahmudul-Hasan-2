@@ -29,7 +29,7 @@ I am a dedicated learner on a mission to build **40+ real-world projects** to ma
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight" alt="Nirob's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
