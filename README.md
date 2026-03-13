@@ -28,7 +28,9 @@ I am a dedicated learner on a mission to build **40+ real-world projects** to ma
 
 ---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight" alt="mahmudul-Hasan-2" />
+</p>
 
 ---
 
