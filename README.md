@@ -26,6 +26,12 @@ I am a dedicated learner on a mission to build **40+ real-world projects** to ma
 - **JavaScript** (Problem Solving)
 - **React & Next.js** (Building Apps)
 
+---
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📫 Reach Me:
 * 📩 **Email:** mahmudul5709@gmail.com
 * 💬 **Status:** Open to learning and building together!
