@@ -15,7 +15,7 @@ I am a dedicated learner on a mission to build **40+ real-world projects** to ma
 
 ### 🔥 My Progress Tracker:
 - [ ] **Total Projects Goal:** 40+
-- [ ] **Completed:** 05 / 40 (Update this number as you go!)
+- [ ] **Completed:** 12 / 40 (Update this number as you go!)
 - [📈] **Current Focus:** JavaScript Logic & Responsive Design
 
 ---
