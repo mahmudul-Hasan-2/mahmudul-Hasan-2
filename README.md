@@ -2,7 +2,9 @@
 
 ---
 
-![My Local Time](https://img.shields.io/badge/Time-17:28%20--%20same%20time-blue?logo=clockify)
+<p align="center">
+  ![My Local Time](https://img.shields.io/badge/Time-17:28%20--%20same%20time-blue?logo=clockify)
+</p>
 
 ---
 
