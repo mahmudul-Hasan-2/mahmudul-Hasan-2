@@ -3,12 +3,6 @@
 ---
 
 <p align="center">
-  ![My Local Time](https://img.shields.io/badge/Time-17:28%20--%20same%20time-blue?logo=clockify)
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=500&lines=Mern-Stack+Developer;Next.js+%26+AI+Integration" alt="Typing SVG" />
 </p>
 
