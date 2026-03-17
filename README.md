@@ -1,5 +1,5 @@
 # 🚀 Future-Ready Full Stack Developer
-### 👨🏽‍💻 Mahmudul Hasan Nirob 
+### 👨🏽‍💻 Mahmudul Hasan Nirab 
 **Building Intelligent & Scalable Web Solutions**
 
 I am a developer who believes in the power of modern web technologies. From crafting pixel-perfect UIs to architecting complex full-stack systems and integrating AI, I focus on creating future-proof applications.
