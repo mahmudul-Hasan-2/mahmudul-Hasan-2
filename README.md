@@ -52,7 +52,7 @@ I am a dedicated developer who believes in the power of modern web technologies.
 
 ### 📫 Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/mahmudul-hasan-nirob/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
