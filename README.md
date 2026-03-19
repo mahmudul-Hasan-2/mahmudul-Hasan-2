@@ -6,10 +6,14 @@ I am a dedicated developer who believes in the power of modern web technologies.
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nirab's Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Nirab's Stats" height="180px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="180px" />
+
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=false" alt="Nirab's Streak" />
 </p>
 
 ---
