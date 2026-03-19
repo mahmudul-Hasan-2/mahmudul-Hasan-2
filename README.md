@@ -1,34 +1,43 @@
 # 🚀 Future-Ready Full Stack Developer
-### 👨🏽‍💻 Mahmudul Hasan Nirab 
+### 👨🏽‍💻 Mahmudul Hasan Nirab  
 **Building Intelligent & Scalable Web Solutions**
 
-I am a developer who believes in the power of modern web technologies. From crafting pixel-perfect UIs to architecting complex full-stack systems and integrating AI, I focus on creating future-proof applications.
+I am a dedicated developer who believes in the power of modern web technologies. From crafting pixel-perfect UIs with **Material UI** to architecting complex full-stack systems and integrating AI, I focus on creating future-proof applications that solve real-world problems.
+
+---
+
+### 📊 GitHub Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nirab's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
 
 ---
 
 ### 🛠️ Core Expertise & Technologies
 
 #### 🌐 Frontend Mastery
-- **HTML5 & CSS3:** Crafting magic with semantic structures and stunning layouts.
-- **Tailwind CSS:** Building clean, responsive, and high-conversion UIs for E-commerce and custom dashboards.
-- **JavaScript (ES6+):** Mastering core concepts through real-world logic, from Mobile Banking Apps to complex DOM manipulations.
-- **React.js:** Building high-demand, component-based architectures ready for the global job market.
+- **React.js & Next.js:** Building high-demand, component-based architectures.
+- **Material UI (MUI):** Designing enterprise-grade, accessible, and theme-able component libraries.
+- **Tailwind CSS:** Crafting clean, responsive, and high-conversion UIs.
+- **JavaScript (ES6+):** Mastering core concepts, DOM manipulations, and asynchronous logic.
+- **HTML5 & CSS3:** Semantic structures and stunning layouts.
 
 #### ⚙️ Backend & Full Stack Infrastructure
-- **Next.js:** Architecting full-stack applications with seamless routing, API integration, and server-side excellence.
-- **Node.js & Express:** Developing 100% client-ready servers, payment integrations, and secure routing systems.
-- **MongoDB:** Designing efficient database schemas and managing data flow with REST APIs.
-- **Firebase:** Implementing robust Authentication and real-time features.
+- **Node.js & Express:** Developing secure, client-ready servers and REST APIs.
+- **MongoDB:** Designing efficient database schemas and managing complex data flows.
+- **Firebase:** Implementing robust Authentication and real-time database features.
 
 #### 🤖 The AI Frontier
-- **AI Integration:** Leveraging **Gemini AI** and **Jasper** to build smart features like text generation, image context, and automated user replies—staying ahead of the curve as a future-proof developer.
+- **AI Integration:** Leveraging **Gemini AI** and **Jasper** to build smart features like text generation, image context, and automated user replies.
 
 ---
 
 ### 🏆 Key Competencies
 - ✅ **Responsive Design:** Expert in Media Queries, Flexbox, and CSS Grid.
-- ✅ **Real-world Deployment:** Experience in taking a project from Design ➡️ Development ➡️ Live Server.
-- ✅ **Modern Tooling:** Proficient in Google Maps API and Redux for scalable state management.
+- ✅ **State Management:** Proficient in Redux and Context API for scalable apps.
+- ✅ **Modern Tooling:** Experience with Google Maps API and real-time deployment.
+- ✅ **Problem Solving:** Passionate about fixing bugs and optimizing performance.
 
 ---
 
@@ -38,5 +47,17 @@ I am a developer who believes in the power of modern web technologies. From craf
 ---
 
 ### 📫 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/mahmudul-hasan-nirob/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:mahmudul5709@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+</a>
+<a href="https://github.com/mahmudul-Hasan-2">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+</p>
+
 - 📍 **Location:** Madhabpur, Habiganj, Sylhet, BD
 - 💼 **Open for:** Full Stack / Frontend Engineering opportunities.
