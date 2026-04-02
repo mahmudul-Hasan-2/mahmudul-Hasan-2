@@ -3,7 +3,7 @@
   <p><strong>Junior Full Stack Developer | MERN Stack & Next.js Enthusiast</strong></p>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-hasan-2&theme=radical&no-frame=false&margin-w=15" alt="mahmudul-Hasan-2 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=radical&no-frame=false&margin-w=15" alt="mahmudul-Hasan-2 trophies" />
   </a>
 </div>
 
@@ -13,8 +13,8 @@
 I am a passionate frontend developer from Bangladesh, focused on building responsive, user-centric web applications. Currently, I'm deep-diving into full-stack development and AI integration.
 
 - 🌱 **Currently Learning:** Next.js, TypeScript, MERN Stack, and AI Integration (Gemini AI).
-- 🛠️ **Current Projects:** Building **Digitool Platform** - a modern learning solution.
 - 📫 **Contact Me:** [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
+- ⚡ **Fun Fact:** I believe in "Pixel Perfect" design and clean, scalable logic.
 
 ---
 
@@ -42,10 +42,10 @@ I am a passionate frontend developer from Bangladesh, focused on building respon
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-hasan-2&show_icons=true&theme=radical&rank_icon=github" alt="Mahmudul's Stats" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&rank_icon=github" alt="Mahmudul's Stats" height="180px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-hasan-2&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical" alt="Top Languages" height="180px" />
       </td>
     </tr>
   </table>
