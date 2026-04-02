@@ -1,65 +1,73 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan Nirab</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Mahmudul%20Hasan%20Nirab&fontSize=50&animation=fadeIn" />
+  
+  <h3>🚀 Junior Full Stack Developer | MERN Stack & Next.js Enthusiast</h3>
+  <p>Focused on building responsive, user-centric web applications and AI-driven solutions.</p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 👤 About Me
+I am a passionate developer from **Bangladesh 🇧🇩**, dedicated to creating pixel-perfect UIs and scalable backend logic. I believe that **leadership** in tech comes from continuous learning and helping others grow.
 
-- 🌱 Currently mastering **Next.js 15**, **TypeScript**, and **Tailwind CSS**
-- 🔥 Building full-stack applications with the **MERN Stack**
-- 🎯 Focused on creating clean, responsive, and high-performance web interfaces
-- 📧 Reach me at: **[mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)**
-
----
-
-### 🛠️ Technologies & Tools
-
-**Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="40" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="40" width="40" alt="Next.js" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
-</p>
-
-**Backend & Database**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" width="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="40" alt="Firebase" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git" />
-</p>
+- 🌱 **Currently Learning:** Advanced Next.js Architecture & AI Integration.
+- 🎯 **Goal:** To build future-proof, AI-powered web applications that solve real-world problems.
+- ⚡ **Fun Fact:** I believe hard work beats talent when talent doesn't work hard.
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ Tech Journey & Skills
 
+* **Frontend Mastery:** Crafting responsive and modern interfaces using **Tailwind CSS**, **React**, and **Next.js**. I focus on performance and SEO-friendly structures.
+* **Backend & Database:** Building secure and scalable RESTful APIs with **Node.js** and **Express.js**. Managing data efficiently with **MongoDB** and **Firebase**.
+* **AI Implementation:** Integrating cutting-edge AI tools like **Gemini AI** and **Jasper AI** to create smart features and automated workflows.
+* **Problem Solving:** Translating complex business requirements into clean, maintainable code.
+
+---
+
+### 📊 GitHub Ecosystem
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&hide_border=true" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🤝 Connect With Me
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&locale=en" alt="Streak Stats" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmudul-hasan-nirab" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  <a href="https://linkedin.com/in/mahmudul-hasan-nirab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/32576428" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="35" width="45" />
+  <a href="https://www.facebook.com/mahmudul.hasan.nirab.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://discord.gg/f6gVe5ThM" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/32576428" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="mailto:mahmudul5709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
