@@ -8,7 +8,7 @@
 ### 🚀 About Me
 I am a passionate frontend developer from Bangladesh, focused on building responsive, user-centric web applications. Currently, I'm deep-diving into full-stack development and AI integration.
 
-- 🌱 **Currently Learning:** Next.js, TypeScript, MERN Stack, and AI Integration (Gemini & Jasper).
+- 🌱 **Currently Learning:** Next.js, MERN Stack, and AI Integration (Gemini & Jasper).
 - 📫 **How to reach me:** [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
 - ⚡ **Fun Fact:** I love building pixel-perfect UIs and scalable backend logic.
 
