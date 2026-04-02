@@ -31,13 +31,9 @@ I am a passionate developer from **Bangladesh 🇧🇩**, dedicated to creating 
 
 ### 📊 GitHub Ecosystem
 <div align="center">
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-</p>
+![Stats Card](https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true" alt="Languages" />
-</p>
+![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&hide_border=true" alt="Streak" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
