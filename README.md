@@ -15,7 +15,6 @@ I am a passionate frontend developer from Bangladesh, focused on building respon
 - 🌱 **Currently Learning:** Next.js, TypeScript, MERN Stack, and AI Integration (Gemini AI).
 - 🛠️ **Current Projects:** Building **Digitool Platform** - a modern learning solution.
 - 📫 **Contact Me:** [mahmudul5709@gmail.com](mailto:mahmudul5709@gmail.com)
-- ⚡ **Fun Fact:** I believe in "Pixel Perfect" design and clean, scalable logic.
 
 ---
 
