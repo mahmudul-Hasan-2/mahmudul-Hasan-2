@@ -32,6 +32,7 @@ I am a passionate developer from **Bangladesh 🇧🇩**, dedicated to creating 
 ### 📊 GitHub Ecosystem
 
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true" alt="Nirab's GitHub Stats" />
 
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true)
 
