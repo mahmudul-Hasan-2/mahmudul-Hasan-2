@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Mahmudul%20Hasan%20Nirab&fontSize=70&animation=fadeIn&fontAlignY=38" />
   
-  <h3>✨ Crafting Scalable Solutions with Code & Creativity</h3>
-  <p><b>Full Stack Developer | MERN & Next.js Architect | AI Enthusiast</b></p>
+  <h3>🚀 Full-Stack Solutions Architect | MERN & Next.js Expert</h3>
+  <p><b>Specializing in AI-Powered Applications, Secure Authentication & Fintech Integration</b></p>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-0e75b6?style=flat-square" />
@@ -12,48 +12,60 @@
 
 ---
 
-### 🚀 Professional Brief
-I am a **Full Stack Web Developer** from **Bangladesh 🇧🇩** specialized in building high-performance, user-centric web applications. My expertise lies in the **MERN Stack** and **Next.js**, with a strong focus on clean architecture, optimized performance, and seamless AI integration.
+### 👤 Executive Summary
+I am a results-driven **Full-Stack Developer** from **Bangladesh 🇧🇩** focused on engineering scalable, high-performance web ecosystems. My core strength lies in combining the **MERN Stack** with **Next.js** to build modern applications that are not only visually stunning but also technically robust.
 
-- 🔭 **Current Focus:** Engineering future-proof AI-powered platforms.
-- 🌱 **Learning Lab:** Advanced Microservices Architecture & Cloud Computing.
-- 💬 **Ask Me About:** React, Next.js, AI Workflows, and UI/UX Optimization.
-- ⚡ **Philosophy:** Code is poetry; make it elegant, functional, and scalable.
+- 🛠️ **System Architecture:** Expert in **Clean Code**, **Responsive Design**, and **RESTful API** development.
+- 🔐 **Security First:** Implementing advanced authentication with **BetterAuth** and **JWT** for enterprise-grade security.
+- 💳 **Fintech & Commerce:** Specializing in **Stripe Payment Integration** and complex e-commerce workflows.
+- 🤖 **AI Integration:** Leveraging **Gemini AI** and **Jasper AI** to build future-proof, intelligent user experiences.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Technical Arsenal
 
 <table align="center">
   <tr>
-    <td align="center" width="250"><b>Frontend</b></td>
-    <td align="center" width="250"><b>Backend & DB</b></td>
-    <td align="center" width="250"><b>AI & Tools</b></td>
+    <td align="center" width="200"><b>Core Frontend</b></td>
+    <td align="center" width="200"><b>Backend & DB</b></td>
+    <td align="center" width="200"><b>Auth & Fintech</b></td>
+    <td align="center" width="200"><b>AI & Intelligence</b></td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      • Next.js 14/15<br>
+      • React.js<br>
+      • TypeScript<br>
+      • Tailwind CSS<br>
+      • Responsive UI/UX
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      • Node.js<br>
+      • Express.js<br>
+      • MongoDB<br>
+      • REST APIs<br>
+      • Database Mgmt
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      • BetterAuth<br>
+      • JWT (JsonWebToken)<br>
+      • Stripe Payments<br>
+      • Secure Routing
+    </td>
+    <td>
+      • Gemini AI (LLM)<br>
+      • Jasper AI (Content)<br>
+      • AI Integration<br>
+      • Contextual Logic
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Ecosystem & Contribution
+### 📊 Portfolio Ecosystem & Impact
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true" />
 </p>
 
@@ -63,7 +75,16 @@ I am a **Full Stack Web Developer** from **Bangladesh 🇧🇩** specialized in 
 
 ---
 
-### 🤝 Let's Collaborate
+### 🏁 Milestones & Learning Journey
+* **Modern Styling:** Mastered **Tailwind CSS** for creating pixel-perfect, mobile-first interfaces.
+* **Advanced React:** Component-based architecture for 100% reusable and scalable codebases.
+* **Scalable Backend:** Comprehensive knowledge of **Node.js** server-side logic and **MongoDB** data modeling.
+* **Full-Stack Next.js:** Building SEO-friendly apps with server actions, routing, and deep database connections.
+* **Future Tech:** Integrating AI tools to automate workflows and enhance user interaction.
+
+---
+
+### 🤝 Let's Engineer Something Great
 <p align="center">
   <a href="https://linkedin.com/in/mahmudul-hasan-nirab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahmudul5709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
