@@ -1,97 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Mahmudul%20Hasan%20Nirab&fontSize=70&animation=fadeIn&fontAlignY=38" />
-  
-  <h3>🚀 Full-Stack Solutions Architect | MERN & Next.js Expert</h3>
-  <p><b>Specializing in AI-Powered Applications, Secure Authentication & Fintech Integration</b></p>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=MAHMUDUL+HASAN+NIRAB;Full+Stack+Developer;MERN+%26+Next.js+Expert;AI+Solutions+Architect" alt="Typing SVG" /></h1>
+
+  <p><b>Bridging the gap between Complex Logic and Elegant Design.</b></p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Maintained%3F-Yes-0e75b6?style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Expertise-Full%20Stack-0e75b6?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 👤 Executive Summary
-I am a results-driven **Full-Stack Developer** from **Bangladesh 🇧🇩** focused on engineering scalable, high-performance web ecosystems. My core strength lies in combining the **MERN Stack** with **Next.js** to build modern applications that are not only visually stunning but also technically robust.
-
-- 🛠️ **System Architecture:** Expert in **Clean Code**, **Responsive Design**, and **RESTful API** development.
-- 🔐 **Security First:** Implementing advanced authentication with **BetterAuth** and **JWT** for enterprise-grade security.
-- 💳 **Fintech & Commerce:** Specializing in **Stripe Payment Integration** and complex e-commerce workflows.
-- 🤖 **AI Integration:** Leveraging **Gemini AI** and **Jasper AI** to build future-proof, intelligent user experiences.
+### 🚀 The Mission
+I don't just write code; I build digital experiences that solve real-world problems. As a **Full Stack Developer**, I specialize in high-performance architectures using the **MERN Stack** and **Next.js**, ensuring every line of code is scalable, secure, and future-proof.
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="200"><b>Core Frontend</b></td>
-    <td align="center" width="200"><b>Backend & DB</b></td>
-    <td align="center" width="200"><b>Auth & Fintech</b></td>
-    <td align="center" width="200"><b>AI & Intelligence</b></td>
-  </tr>
-  <tr>
-    <td>
-      • Next.js 14/15<br>
-      • React.js<br>
-      • TypeScript<br>
-      • Tailwind CSS<br>
-      • Responsive UI/UX
-    </td>
-    <td>
-      • Node.js<br>
-      • Express.js<br>
-      • MongoDB<br>
-      • REST APIs<br>
-      • Database Mgmt
-    </td>
-    <td>
-      • BetterAuth<br>
-      • JWT (JsonWebToken)<br>
-      • Stripe Payments<br>
-      • Secure Routing
-    </td>
-    <td>
-      • Gemini AI (LLM)<br>
-      • Jasper AI (Content)<br>
-      • AI Integration<br>
-      • Contextual Logic
-    </td>
-  </tr>
-</table>
+### 📂 Strategic Focus Areas
+- 🔐 **Advanced Auth:** Moving beyond basics with **BetterAuth**, **JWT**, and secure Session Management.
+- 💳 **Fintech Integration:** Robust payment gateways using **Stripe** for seamless global transactions.
+- 🤖 **AI-First Logic:** Integrating **Gemini AI** and **Jasper** to create intelligent, self-evolving applications.
+- ⚡ **Performance:** 100% Core Web Vitals score through **Server Actions** and **ISR** in Next.js.
 
 ---
 
-### 📊 Portfolio Ecosystem & Impact
+### 🛠️ Technical Stack
+
+<details open>
+<summary><b>Frontend Development</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Security</b></summary>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/BetterAuth-FF4500?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+</details>
+
+---
+
+### 📊 Vital Statistics
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=react-dark&area=true&hide_border=true" />
-</p>
+---
+
+### 🏆 Top Contributions & Projects
+1. 🚀 **AI-Powered SaaS:** A Next.js 15 platform with BetterAuth and Gemini AI integration. [Link](#)
+2. 🛒 **Fintech E-Commerce:** Full-stack marketplace featuring Stripe Subscriptions and JWT security. [Link](#)
+3. 📱 **Modern Dashboard:** Optimized MERN dashboard with real-time data visualization. [Link](#)
 
 ---
 
-### 🏁 Milestones & Learning Journey
-* **Modern Styling:** Mastered **Tailwind CSS** for creating pixel-perfect, mobile-first interfaces.
-* **Advanced React:** Component-based architecture for 100% reusable and scalable codebases.
-* **Scalable Backend:** Comprehensive knowledge of **Node.js** server-side logic and **MongoDB** data modeling.
-* **Full-Stack Next.js:** Building SEO-friendly apps with server actions, routing, and deep database connections.
-* **Future Tech:** Integrating AI tools to automate workflows and enhance user interaction.
+### 📈 GitHub Growth Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=react-dark&area=true&hide_border=true)
 
 ---
 
-### 🤝 Let's Engineer Something Great
+### 🤝 Connect & Collaborate
 <p align="center">
-  <a href="https://linkedin.com/in/mahmudul-hasan-nirab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mahmudul-hasan-nirab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mahmudul5709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/f6gVe5ThM" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/32576428" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://discord.gg/f6gVe5ThM"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </div>
