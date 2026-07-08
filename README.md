@@ -65,7 +65,7 @@
 
 ### 💬 Dev Quote
 
-<table width="100%">
+<table style="width:100%;">
   <tr>
     <td bgcolor="#1a1b26" align="center" style="padding: 20px; border: 1px solid #38b2ac; border-radius: 8px;">
       <font size="4" color="#39D353"><b>💻 Dev Quote of the Day</b></font><br /><br />
