@@ -16,6 +16,24 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+> 💡 **Note:** মামা, ওপরের কন্টাক্ট লিংকগুলোর `YOUR_USERNAME` বা `your.email@example.com` এর জায়গায় তোমার অরিজিনাল লিংকগুলো বসিয়ে নিও! তোমার কাছে যদি সুনির্দিষ্ট কোনো ইউআরএল থাকে, আমাকে বললে আমি এখনই কোডে বসিয়ে দিতে পারি।
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 #### 🌐 Frontend & UI/UX
@@ -46,8 +64,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
