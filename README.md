@@ -1,8 +1,7 @@
 # 🚀 Hi, I'm [mahmudul-Hasan-2](https://github.com/mahmudul-Hasan-2)
+### ⚡ MERN Stack Developer | Next.js & TypeScript Expert
 
-### 💻 MERN Stack Developer | Next.js & TypeScript Expert
-
----
+<br />
 
 ### 💫 About Me
 
@@ -16,24 +15,27 @@
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & UI/UX** | `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript` `React` `Next.js` `Tailwind CSS` `daisyUI` `HeroUI` `Figma to Code` |
-| **Backend & Databases** | `Node.js` `Express.js` `MongoDB` `Mongoose (ODM)` `BetterAuth` |
+#### 🌐 Frontend & UI/UX
+`HTML5` &nbsp;&bull;&nbsp; `CSS3` &nbsp;&bull;&nbsp; `JavaScript (ES6+)` &nbsp;&bull;&nbsp; `TypeScript` &nbsp;&bull;&nbsp; `React` &nbsp;&bull;&nbsp; `Next.js` &nbsp;&bull;&nbsp; `Tailwind CSS` &nbsp;&bull;&nbsp; `daisyUI` &nbsp;&bull;&nbsp; `HeroUI` &nbsp;&bull;&nbsp; `Figma to Code`
+
+#### 🗄️ Backend & Databases
+`Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `MongoDB` &nbsp;&bull;&nbsp; `Mongoose (ODM)` &nbsp;&bull;&nbsp; `BetterAuth`
 
 ---
 
 ### 🌐 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com)
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-* 📘 **Facebook:** [facebook.com/your-username](https://facebook.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
 
 ### 💬 Dev Quote
 
-> "The best error message is the one that never shows up. Code confidently, type-safe always." 💻
+> 💡 *"The best error message is the one that never shows up. Code confidently, type-safe always."*
 
 ---
 
