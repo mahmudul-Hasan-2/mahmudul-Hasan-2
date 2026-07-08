@@ -10,7 +10,7 @@
 ### 💫 About Me
 
 * 💻 **Currently working on:** Advanced Full-Stack applications using **React**, **Next.js**, and **TypeScript**.
-* ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, **Mongoose**, and **BetterAuth**.
+* ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
 * 🌱 **Currently learning:** Pushing boundaries with **PostgreSQL**, **Docker**, and **Nginx**.
 * 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
 * ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
@@ -65,14 +65,9 @@
 
 ### 💬 Dev Quote
 
-<table width:100%;>
-  <tr>
-    <td bgcolor="#1a1b26" align="center" style="padding: 20px; border: 1px solid #38b2ac; border-radius: 8px;">
-      <font size="4" color="#39D353"><b>💻 Dev Quote of the Day</b></font><br /><br />
-      <font size="3" color="#a9b1d6"><i>"The best error message is the one that never shows up. Code confidently, type-safe always."</i></font>
-    </td>
-  </tr>
-</table>
+> [!TIP]
+> **Dev Quote of the Day**  
+> *"The best error message is the one that never shows up. Code confidently, type-safe always."* 💻
 
 ---
 
