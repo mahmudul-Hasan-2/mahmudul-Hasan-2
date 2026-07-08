@@ -45,18 +45,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend Skills" />
 </p>
 
+> **Note:** এখানে `daisyUI`, `HeroUI` আর `BetterAuth`-এর স্কিলগুলো ওপরে **About Me** এবং টাইপিং অ্যানিমেশনে চমৎকারভাবে ফুটিয়ে তোলা হয়েছে, যাতে প্রোফাইলের সৌন্দর্য নষ্ট না হয়!
+
 ---
 
-### 📊 GitHub Stats & Dynamic Quote
+### 💬 Dev Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-quotes-github.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="97%" />
-</p>
+> 💻 *"The best error message is the one that never shows up. Code confidently, type-safe always."* 
 
 ---
 
