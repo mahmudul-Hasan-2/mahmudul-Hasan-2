@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm [mahmudul_Hasan_2](https://github.com/mahmudul_Hasan_2)
+# 🚀 Hi, I'm [mahmudul_hasan_2](https://github.com/mahmudul_hasan_2)
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39D353&width=435&lines=MERN+Stack+Developer;Next.js+%26+TypeScript+Expert;Building+Scalable+Architecture" alt="Typing SVG" />
@@ -46,12 +46,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul_Hasan_2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul_Hasan_2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul_hasan_2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul_hasan_2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul_Hasan_2&theme=tokyonight" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul_hasan_2&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
