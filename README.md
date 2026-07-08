@@ -1,7 +1,11 @@
 # 🚀 Hi, I'm [mahmudul-Hasan-2](https://github.com/mahmudul-Hasan-2)
-### ⚡ MERN Stack Developer | Next.js & TypeScript Expert
+### ⚙️ MERN Stack Developer | Next.js & TypeScript Expert
 
-<br />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=450&lines=MERN+Stack+Developer;Next.js+%26+TypeScript+Expert;Building+Scalable+Architecture" alt="Typing SVG" />
+</p>
+
+---
 
 ### 💫 About Me
 
@@ -13,29 +17,48 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-#### 🌐 Frontend & UI/UX
-`HTML5` &nbsp;&bull;&nbsp; `CSS3` &nbsp;&bull;&nbsp; `JavaScript (ES6+)` &nbsp;&bull;&nbsp; `TypeScript` &nbsp;&bull;&nbsp; `React` &nbsp;&bull;&nbsp; `Next.js` &nbsp;&bull;&nbsp; `Tailwind CSS` &nbsp;&bull;&nbsp; `daisyUI` &nbsp;&bull;&nbsp; `HeroUI` &nbsp;&bull;&nbsp; `Figma to Code`
-
-#### 🗄️ Backend & Databases
-`Node.js` &nbsp;&bull;&nbsp; `Express.js` &nbsp;&bull;&nbsp; `MongoDB` &nbsp;&bull;&nbsp; `Mongoose (ODM)` &nbsp;&bull;&nbsp; `BetterAuth`
-
----
-
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://facebook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
 
-### 💬 Dev Quote
+### 🛠️ Tech Stack & Tools
 
-> 💡 *"The best error message is the one that never shows up. Code confidently, type-safe always."*
+#### 🌐 Frontend & UI/UX
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
+</p>
+
+#### 🗄️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend Skills" />
+</p>
+
+> **Note:** এখানে `daisyUI`, `HeroUI` আর `BetterAuth`-এর অফিশিয়াল স্কিল আইকন এপিআই-তে না থাকায় সেগুলোকে ওপরে **About Me** এবং টাইপিং অ্যানিমেশনে সুন্দর করে হাইলাইট করে দিয়েছি, যাতে টেক স্ট্যাকের গ্রিডটা দেখতে একদম ব্যালেন্সড আর প্রিমিয়াম লাগে!
+
+---
+
+### 📊 GitHub Stats & Dynamic Quote
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-quotes-github.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="97%" />
+</p>
 
 ---
 
