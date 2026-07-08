@@ -54,9 +54,25 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ### 💬 Dev Quote
 
-> 💻 *"The best error message is the one that never shows up. Code confidently, type-safe always."* 
+<table width="100%">
+  <tr>
+    <td bgcolor="#1a1b26" align="center" style="padding: 20px; border: 1px solid #38b2ac; border-radius: 8px;">
+      <font size="4" color="#39D353"><b>💻 Dev Quote of the Day</b></font><br /><br />
+      <font size="3" color="#a9b1d6"><i>"The best error message is the one that never shows up. Code confidently, type-safe always."</i></font>
+    </td>
+  </tr>
+</table>
 
 ---
 
