@@ -10,9 +10,9 @@
 ### 💫 About Me
 
 * 💻 **Currently working on:** Advanced Full-Stack applications using **React**, **Next.js**, and **TypeScript**.
-* ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
-* 🌱 **Currently learning:** Pushing boundaries with **PostgreSQL & Prisma**, **AWS**, **Docker**, and **Nginx**.
-* 💬 **Ask me about:** MERN Stack, Type-Safety, Authentication (BetterAuth), and Figma to Code conversion.
+* ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, **Mongoose**, and **BetterAuth**.
+* 🌱 **Currently learning:** Pushing boundaries with **PostgreSQL**, **Docker**, and **Nginx**.
+* 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
 * ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
 
 ---
@@ -38,14 +38,19 @@
 #### 🌐 Frontend & UI/UX
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
+  <br />
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
+  <img src="https://img.shields.io/badge/HeroUI-FF007F?style=for-the-badge&logo=ui&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/Figma_to_Code-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code" />
 </p>
 
-#### 🗄️ Backend & Databases
+#### 🗄️ Backend, Databases & Auth
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Skills" />
+  <br />
+  <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
-
-> **Note:** এখানে `daisyUI`, `HeroUI` আর `BetterAuth`-এর স্কিলগুলো ওপরে **About Me** এবং টাইপিং অ্যানিমেশনে চমৎকারভাবে ফুটিয়ে তোলা হয়েছে, যাতে প্রোফাইলের সৌন্দর্য নষ্ট না হয়!
 
 ---
 
