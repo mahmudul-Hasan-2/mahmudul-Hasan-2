@@ -20,13 +20,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/in/তmahmudul-hasan-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mahmudul5709@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;
-  <a href="https://facebook.com" target="_blank">
+  <a href="https://facebook.com/Mahmudul Hasan Nirab" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
   <br />
   <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
-  <img src="https://img.shields.io/badge/HeroUI-FF007F?style=for-the-badge&logo=ui&logoColor=white" alt="HeroUI" />
+  <img src="https://img.shields.io/badge/HeroUI-FF007F?style=for-the-badge&logoColor=white" alt="HeroUI" />
   <img src="https://img.shields.io/badge/Figma_to_Code-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code" />
 </p>
 
@@ -48,7 +48,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Skills" />
   <br />
-  <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logo=auth0&logoColor=white" alt="BetterAuth" />
+  <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logoColor=white" alt="BetterAuth" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
