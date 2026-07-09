@@ -47,7 +47,7 @@
 
 #### 🗄️ Backend, Databases & Auth
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend Skills" />
   <br />
   <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logoColor=white" alt="BetterAuth" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
