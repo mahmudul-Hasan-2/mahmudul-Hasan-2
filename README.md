@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="My Profile Banner" width="100%">
+  <img src="banner.png" alt="My Profile Banner" width="100%" height="200" style="object-fit: cover;">
 </p>
 
 # 🚀 Hi, I'm [mahmudul-Hasan-2](https://github.com/mahmudul-Hasan-2)
