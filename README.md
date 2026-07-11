@@ -67,8 +67,8 @@
 ### 💬 Dev Quote
 
 > [!TIP]
-> **Dev Quote of the Day**  
-> *"The best error message is the one that never shows up. Code confidently, type-safe always."* 💻
+> **Dev Quote of the Day**
+> *"We don't build software to handle exceptions; we design systems so errors have nowhere to hide."* 💻
 
 ---
 
