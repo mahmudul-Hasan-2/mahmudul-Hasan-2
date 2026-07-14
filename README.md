@@ -17,14 +17,23 @@
 * ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
 * 🌱 **Currently learning:** Pushing boundaries with **PostgreSQL**, **Docker**, and **Nginx**.
 * 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
+* 📞 **Contact Number:** +880 1XXXXXXXXX *(মামা, এখানে তোমার ফোন নম্বরটি বসিয়ে নিও)*
 * ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
+
+---
+
+### 🚀 Current Focus & Contribution
+
+* 🛠️ **Open Source:** Active contributor to utility libraries and boilerplate frameworks.
+* 📦 **Architecture:** Standardizing project directories for production-grade Next.js (App Router) repositories.
+* 🔒 **Security First:** Integrating bulletproof authentication state-management via BetterAuth in current client dashboards.
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mahmudul-hasan-nirab-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:mahmudul5790@gmail.com" target="_blank">
@@ -58,8 +67,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" alt="Mahmudul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Mahmudul's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
