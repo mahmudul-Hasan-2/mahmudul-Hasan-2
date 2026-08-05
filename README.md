@@ -3,6 +3,7 @@
 </p>
 
 # 🚀 Hi, I'm [mahmudul-Hasan-2](https://github.com/mahmudul-Hasan-2)
+
 ### ⚙️ MERN Stack Developer | Next.js & TypeScript Expert
 
 <p align="left">
@@ -11,31 +12,31 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-* 💻 **Currently working on:** Advanced Full-Stack applications using **React**, **Next.js**, and **TypeScript**.
-* ⚙️ **Using for Backend:** Robust server-side logic with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.
-* 🌱 **Currently learning:** Pushing boundaries with **PostgreSQL**, **Docker**, and **Nginx**.
-* 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
-* 📞 **Contact Number:** +880 1610627789
-* ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
-
----
-
-### 🚀 Current Focus & Contribution
-
-* 🛠️ **Open Source:** Active contributor to utility libraries and boilerplate frameworks.
-* 📦 **Architecture:** Standardizing project directories for production-grade Next.js (App Router) repositories.
-* 🔒 **Security First:** Integrating bulletproof authentication state-management via BetterAuth in current client dashboards.
+- 💻 **Currently working on:** Advanced Full-Stack applications using **React**, **Next.js**, and **TypeScript**.
+- ⚙️ **Backend:** Building scalable APIs with **Node.js**, **Express**, and **MongoDB**.
+- 🌱 **Currently learning:** **PostgreSQL**, **Docker**, and **Nginx**.
+- 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
+- ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Current Focus & Contribution
+
+- 🛠️ **Open Source:** Active contributor to utility libraries and boilerplate frameworks.
+- 📦 **Architecture:** Standardizing production-grade Next.js (App Router) project structures.
+- 🔒 **Security First:** Building secure authentication systems using BetterAuth.
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmudul-hasan-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+  </a>
+  &nbsp;
   <a href="mailto:mahmudul5790@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -43,9 +44,10 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Tools
 
-#### 🌐 Frontend & UI/UX
+### 🌐 Frontend & UI/UX
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
   <br />
@@ -54,17 +56,17 @@
   <img src="https://img.shields.io/badge/Figma_to_Code-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code" />
 </p>
 
-#### 🗄️ Backend, Databases & Auth
+### 🗄️ Backend, Database & Authentication
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
   <br />
   <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logoColor=white" alt="BetterAuth" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Mahmudul's GitHub Stats" />
@@ -73,7 +75,8 @@
 
 ---
 
-> ### 💬 Dev Quote of the Day
+> ## 💬 Dev Quote of the Day
+>
 > *"We don't build software to handle exceptions; we design systems so errors have nowhere to hide."*
 
 ---
