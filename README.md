@@ -78,29 +78,39 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who enjoys 
 
 ---
 
-## Featured Projects
+---
+
+# 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ### 🌟 IdeaVault
 
-Modern MERN application for saving and organizing ideas.
+A production-ready **MERN Idea Management Platform** where users can securely create, organize and manage ideas.
 
-**Stack**
+**✨ Highlights**
 
-- Next.js
-- TypeScript
-- MongoDB
-- Express
 - JWT Authentication
+- CRUD Operations
+- Search & Category Filter
+- Responsive UI
+- MongoDB Database
 
-**Links**
+**🛠 Tech Stack**
 
-- Live Demo
-- Source Code
+`Next.js` `TypeScript` `Express.js` `MongoDB` `JWT`
+
+**🔗 Links**
+
+[🌐 Live Demo](https://ideavault-client-psi.vercel.app/)
+
+[💻 Client Repository](https://github.com/mahmudul-Hasan-2/ideaVault-client)
+
+[⚙️ Server Repository](https://github.com/mahmudul-Hasan-2/IdeaVault-Server)
 
 </td>
 
@@ -108,19 +118,25 @@ Modern MERN application for saving and organizing ideas.
 
 ### 💼 Developer Portfolio
 
-Personal portfolio built with Next.js.
+A modern **personal portfolio website** built with Next.js featuring a clean white-theme UI, animations and responsive design.
 
-**Highlights**
+**✨ Highlights**
 
+- Apple-inspired UI
 - Responsive Design
-- Dark UI
-- Smooth Animation
+- Smooth Animations
 - SEO Optimized
+- Fast Performance
 
-**Links**
+**🛠 Tech Stack**
 
-- Portfolio
-- Source Code
+`Next.js` `Tailwind CSS` `TypeScript`
+
+**🔗 Links**
+
+[🌐 Live Website](https://nirab-dev.vercel.app/)
+
+[💻 Source Code](https://github.com/mahmudul-Hasan-2/nirab-dev)
 
 </td>
 
@@ -128,37 +144,56 @@ Personal portfolio built with Next.js.
 
 <tr>
 
-<td width="50%" align="top">
+<td width="50%" valign="top">
 
-### 🍲 Recipe App
+### 🍲 RecipeHub
 
-Recipe platform with API integration.
+A full-stack recipe discovery application where users can browse, search and manage recipes with authentication support.
 
-**Features**
+**✨ Highlights**
 
-- Search
+- Recipe Search
 - Categories
 - Favorites
-- Responsive Layout
+- Authentication
+- Fully Responsive
+
+**🛠 Tech Stack**
+
+`React` `Express.js` `MongoDB` `Tailwind CSS`
+
+**🔗 Links**
+
+[🌐 Live Demo](https://recipehub-client.vercel.app/)
+
+[💻 Client Repository](https://github.com/mahmudul-Hasan-2/ideaVault-client)
+
+[⚙️ Server Repository](https://github.com/mahmudul-Hasan-2/RecipeHub-Server)
 
 </td>
 
-<td width="50%" align="top">
+<td width="50%" valign="top">
 
-### 🛒 E-Commerce UI
+### 🚧 Coming Soon
 
-Responsive shopping interface.
+A new production-style project is currently in development.
 
-**Features**
+**Planned Features**
 
-- Product Pages
 - Authentication
 - Dashboard
-- Cart
+- API Integration
+- Responsive UI
+- TypeScript + Next.js
+
+**Status**
+
+> 🚀 Coming Soon
 
 </td>
 
 </tr>
+
 </table>
 
 ---
