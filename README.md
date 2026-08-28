@@ -198,18 +198,10 @@ A full-stack recipe discovery application where users can browse, search and man
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&bg_color=0d1117&color=58a6ff&line=38bdf8&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=mahmudul-Hasan-2&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=mahmudul-Hasan-2&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
 </p>
 
 ---
