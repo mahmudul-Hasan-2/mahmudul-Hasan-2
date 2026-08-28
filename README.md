@@ -1,33 +1,38 @@
-<!-- ========================= -->
-<!--   MAHMUDUL HASAN README   -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--               HERO SECTION (TOP OF README)             -->
+<!-- ===================================================== -->
 
 <div align="center">
+
+<img src="./banner.png" width="100%" alt="Mahmudul Hasan Banner"/>
+
+<br><br>
 
 # Mahmudul Hasan
 
 ### Frontend Developer • React • Next.js • TypeScript
 
-Building modern, fast and responsive web applications with the MERN ecosystem.
+Building beautiful, responsive and scalable web applications with the MERN ecosystem.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=3000&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;Building+beautiful+user+experiences;Always+learning+something+new." />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+User+Interfaces;Always+Learning+%26+Shipping+Projects"/>
 
-<p align="center">
-  <a href="https://nirab-dev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<br>
 
-  <a href="https://github.com/mahmudul-Hasan-2">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://nirab-dev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahmudul-Hasan-2">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -35,11 +40,19 @@ Building modern, fast and responsive web applications with the MERN ecosystem.
 
 ## About Me
 
-I'm a frontend developer from **Bangladesh** who enjoys building polished interfaces with modern web technologies.
+I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who enjoys creating polished user experiences with modern web technologies.
 
-I focus on writing clean UI, reusable components, responsive layouts, authentication systems and scalable frontend architecture.
+- Modern UI with **React & Next.js**
+- Responsive layouts with **Tailwind CSS**
+- Full Stack development with **Node.js + Express + MongoDB**
+- Authentication with **JWT & BetterAuth**
+- Clean reusable component architecture
 
-Currently learning and building production-style applications using **React, Next.js, TypeScript, Express and MongoDB.**
+### Currently
+
+- Learning advanced Next.js & TypeScript.
+- Building production-style MERN applications.
+- Looking for remote frontend opportunities.
 
 ---
 
@@ -47,54 +60,55 @@ Currently learning and building production-style applications using **React, Nex
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark"/>
 </p>
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,npm,bash&theme=dark"/>
 </p>
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### IdeaVault
+### 🌟 IdeaVault
 
-Production-ready idea management platform.
+Modern MERN application for saving and organizing ideas.
 
-**Tech**
+**Stack**
 
-Next.js • TypeScript • Express • MongoDB • JWT
+- Next.js
+- TypeScript
+- MongoDB
+- Express
+- JWT Authentication
 
-**Features**
+**Links**
 
-- Authentication
-- CRUD
-- Search
-- Category Filter
-- Responsive UI
+- Live Demo
+- Source Code
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Developer Portfolio
+### 💼 Developer Portfolio
 
-Modern personal portfolio built with Next.js.
+Personal portfolio built with Next.js.
 
 **Highlights**
 
@@ -103,6 +117,45 @@ Modern personal portfolio built with Next.js.
 - Smooth Animation
 - SEO Optimized
 
+**Links**
+
+- Portfolio
+- Source Code
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="top">
+
+### 🍲 Recipe App
+
+Recipe platform with API integration.
+
+**Features**
+
+- Search
+- Categories
+- Favorites
+- Responsive Layout
+
+</td>
+
+<td width="50%" align="top">
+
+### 🛒 E-Commerce UI
+
+Responsive shopping interface.
+
+**Features**
+
+- Product Pages
+- Authentication
+- Dashboard
+- Cart
+
 </td>
 
 </tr>
@@ -110,45 +163,131 @@ Modern personal portfolio built with Next.js.
 
 ---
 
-## Currently Building
+## GitHub Statistics
 
-- Full Stack MERN Projects
-- Authentication Systems
-- Dashboard Interfaces
-- REST APIs
-- TypeScript Applications
+<p align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-## GitHub Stats
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
 ## Most Used Languages
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+</p>
 
 ---
 
 ## Contribution Graph
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
+---
 
-</div>
+## GitHub Trophies
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## Currently Building
+
+- Modern MERN Stack Projects
+- Dashboard Interfaces
+- Authentication Systems
+- REST APIs
+- TypeScript Applications
+- UI Component Library
+
+---
+
+## Learning Journey
+
+## 🚀 Tech Stack Mastery
+
+<table>
+<tr>
+<td width="240">🌐 HTML5</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🎨 CSS3</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>💨 Tailwind CSS</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🟨 JavaScript (ES6+)</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>⚛️ React</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>▲ Next.js</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🔷 TypeScript</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🟢 Node.js</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🚀 Express.js</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🍃 MongoDB</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🔥 Firebase</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🔐 JWT Authentication</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🌍 REST API</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+<tr>
+<td>🐙 Git & GitHub</td>
+<td><code>██████████ 100%</code></td>
+</tr>
+
+</table>
 
 ---
 
@@ -156,20 +295,20 @@ Modern personal portfolio built with Next.js.
 
 <p align="center">
 
-<a href="mailto:mahmudul5709@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>
 </a>
 
 <a href="https://github.com/mahmudul-Hasan-2">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="45"/>
 </a>
 
 <a href="https://nirab-dev.vercel.app">
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="45"/>
 </a>
 
 </p>
@@ -178,6 +317,8 @@ Modern personal portfolio built with Next.js.
 
 <div align="center">
 
-> *"Build beautiful things. Keep learning. Ship consistently."*
+### Thanks for visiting my profile.
+
+*"Build beautiful things. Keep learning. Ship consistently."*
 
 </div>
