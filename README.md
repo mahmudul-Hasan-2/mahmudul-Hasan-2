@@ -193,9 +193,7 @@ A full-stack recipe discovery application where users can browse, search and man
 ## Most Used Languages
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=hack"/>
 </p>
 
 ---
@@ -210,7 +208,7 @@ A full-stack recipe discovery application where users can browse, search and man
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
 
 </p>
 
