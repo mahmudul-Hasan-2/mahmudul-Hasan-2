@@ -118,19 +118,19 @@ A production-ready **MERN Idea Management Platform** where users can securely cr
 
 ### 💼 Developer Portfolio
 
-A modern **personal portfolio website** built with Next.js featuring a clean white-theme UI, animations and responsive design.
+A modern **developer portfolio** built with **React, TypeScript, and TanStack Router**, featuring a clean white-theme UI, smooth animations, and responsive design.
 
 **✨ Highlights**
 
-- Apple-inspired UI
+- Apple-inspired White UI
 - Responsive Design
-- Smooth Animations
-- SEO Optimized
+- Smooth Page Transitions
 - Fast Performance
+- Modern Component Architecture
 
 **🛠 Tech Stack**
 
-`Next.js` `Tailwind CSS` `TypeScript`
+`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Vite`
 
 **🔗 Links**
 
