@@ -172,26 +172,6 @@ A full-stack recipe discovery application where users can browse, search and man
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🚧 Coming Soon
-
-A new production-style project is currently in development.
-
-**Planned Features**
-
-- Authentication
-- Dashboard
-- API Integration
-- Responsive UI
-- TypeScript + Next.js
-
-**Status**
-
-> 🚀 Coming Soon
-
-</td>
-
 </tr>
 
 </table>
