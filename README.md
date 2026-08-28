@@ -178,38 +178,38 @@ A full-stack recipe discovery application where users can browse, search and man
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats-virid-ten-12.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true"/>
+</p>
 
 </p>
 
 ---
 
-## Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=hack"/>
+  <img width="60%" src="https://github-readme-stats-virid-ten-12.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahmudul-Hasan-2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
