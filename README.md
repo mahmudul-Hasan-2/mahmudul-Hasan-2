@@ -68,80 +68,57 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who enjoys 
 
 # 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌟 IdeaVault</h3>
-      <p>A production-ready <strong>MERN Idea Management Platform</strong> where users can securely create, organize and manage ideas.</p>
-      
-      <p><strong>✨ Highlights</strong></p>
-      <ul>
-        <li>JWT Authentication</li>
-        <li>CRUD Operations</li>
-        <li>Search & Category Filter</li>
-        <li>Responsive UI</li>
-        <li>MongoDB Database</li>
-      </ul>
-      
-      <p><strong>🛠 Tech Stack</strong><br>
-      <code>Next.js</code> <code>TypeScript</code> <code>Express.js</code> <code>MongoDB</code> <code>JWT</code></p>
-      
-      <p><strong>🔗 Links</strong><br>
-      <a href="https://ideavault-client-psi.vercel.app/">🌐 Live Demo</a> ·
-      <a href="https://github.com/mahmudul-Hasan-2/ideaVault-client">💻 Client</a> ·
-      <a href="https://github.com/mahmudul-Hasan-2/IdeaVault-Server">⚙️ Server</a></p>
-    </td>
-    
-    <td width="50%" valign="top">
-      <h3>💼 Developer Portfolio</h3>
-      <p>A modern <strong>developer portfolio</strong> built with <strong>React, TypeScript, and TanStack Router</strong>, featuring a clean white-theme UI, smooth animations, and responsive design.</p>
-      
-      <p><strong>✨ Highlights</strong></p>
-      <ul>
-        <li>Apple-inspired White UI</li>
-        <li>Responsive Design</li>
-        <li>Smooth Page Transitions</li>
-        <li>Fast Performance</li>
-        <li>Modern Component Architecture</li>
-      </ul>
-      
-      <p><strong>🛠 Tech Stack</strong><br>
-      <code>React</code> <code>TypeScript</code> <code>TanStack Router</code> <code>Tailwind CSS</code> <code>Vite</code></p>
-      
-      <p><strong>🔗 Links</strong><br>
-      <a href="https://nirab-dev.vercel.app/">🌐 Live Website</a> ·
-      <a href="https://github.com/mahmudul-Hasan-2/nirab-dev">💻 Source Code</a></p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍲 RecipeHub</h3>
-      <p>A full-stack recipe discovery application where users can browse, search and manage recipes with authentication support.</p>
-      
-      <p><strong>✨ Highlights</strong></p>
-      <ul>
-        <li>Recipe Search</li>
-        <li>Categories</li>
-        <li>Favorites</li>
-        <li>Authentication</li>
-        <li>Fully Responsive</li>
-      </ul>
-      
-      <p><strong>🛠 Tech Stack</strong><br>
-      <code>React</code> <code>Express.js</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
-      
-      <p><strong>🔗 Links</strong><br>
-      <a href="https://recipehub-client.vercel.app/">🌐 Live Demo</a> ·
-      <a href="https://github.com/mahmudul-Hasan-2/RecipeHub-Client">💻 Client</a> ·
-      <a href="https://github.com/mahmudul-Hasan-2/RecipeHub-Server">⚙️ Server</a></p>
-    </td>
-    
-    <td width="50%" valign="top">
-      <!-- Empty cell for layout balance, or add another project later -->
-    </td>
-  </tr>
-</table>
+### 🌟 IdeaVault
+A production-ready **MERN Idea Management Platform** where users can securely create, organize and manage ideas.
+
+**✨ Highlights**
+- JWT Authentication
+- CRUD Operations
+- Search & Category Filter
+- Responsive UI
+- MongoDB Database
+
+**🛠 Tech Stack**  
+`Next.js` `TypeScript` `Express.js` `MongoDB` `JWT`
+
+**🔗 Links**  
+[🌐 Live Demo](https://ideavault-client-psi.vercel.app/) · [💻 Client](https://github.com/mahmudul-Hasan-2/ideaVault-client) · [⚙️ Server](https://github.com/mahmudul-Hasan-2/IdeaVault-Server)
+
+---
+
+### 💼 Developer Portfolio
+A modern **developer portfolio** built with **React, TypeScript, and TanStack Router**, featuring a clean white-theme UI, smooth animations, and responsive design.
+
+**✨ Highlights**
+- Apple-inspired White UI
+- Responsive Design
+- Smooth Page Transitions
+- Fast Performance
+- Modern Component Architecture
+
+**🛠 Tech Stack**  
+`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Vite`
+
+**🔗 Links**  
+[🌐 Live Website](https://nirab-dev.vercel.app/) · [💻 Source Code](https://github.com/mahmudul-Hasan-2/nirab-dev)
+
+---
+
+### 🍲 RecipeHub
+A full-stack recipe discovery application where users can browse, search and manage recipes with authentication support.
+
+**✨ Highlights**
+- Recipe Search
+- Categories
+- Favorites
+- Authentication
+- Fully Responsive
+
+**🛠 Tech Stack**  
+`React` `Express.js` `MongoDB` `Tailwind CSS`
+
+**🔗 Links**  
+[🌐 Live Demo](https://recipehub-client.vercel.app/) · [💻 Client](https://github.com/mahmudul-Hasan-2/RecipeHub-Client) · [⚙️ Server](https://github.com/mahmudul-Hasan-2/RecipeHub-Server)
 
 ---
 
