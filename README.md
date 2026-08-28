@@ -1,86 +1,183 @@
+<!-- ========================= -->
+<!--   MAHMUDUL HASAN README   -->
+<!-- ========================= -->
+
+<div align="center">
+
+# Mahmudul Hasan
+
+### Frontend Developer • React • Next.js • TypeScript
+
+Building modern, fast and responsive web applications with the MERN ecosystem.
+
 <p align="center">
-  <img src="banner.png" alt="My Profile Banner" width="100%" height="300" style="object-fit: cover;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=3000&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;Building+beautiful+user+experiences;Always+learning+something+new." />
 </p>
 
-# 🚀 Hi, I'm [mahmudul-Hasan-2](https://github.com/mahmudul-Hasan-2)
-
-### ⚙️ MERN Stack Developer | Next.js & TypeScript Expert
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&width=450&lines=MERN+Stack+Developer;Next.js+%26+TypeScript+Expert;Building+Scalable+Architecture" alt="Typing SVG" />
-</p>
-
----
-
-## 💫 About Me
-
-- 💻 **Currently working on:** Advanced Full-Stack applications using **React**, **Next.js**, and **TypeScript**.
-- ⚙️ **Backend:** Building scalable APIs with **Node.js**, **Express**, and **MongoDB**.
-- 🌱 **Currently learning:** **PostgreSQL**, **Docker**, and **Nginx**.
-- 💬 **Ask me about:** MERN Stack, Type-Safety, BetterAuth, and Figma to Code conversion.
-- ⚡ **Fun Fact:** I believe clean code is just poetry that runs without compilation errors.
-
----
-
-## 🚀 Current Focus & Contribution
-
-- 🛠️ **Open Source:** Active contributor to utility libraries and boilerplate frameworks.
-- 📦 **Architecture:** Standardizing production-grade Next.js (App Router) project structures.
-- 🔒 **Security First:** Building secure authentication systems using BetterAuth.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmudul-hasan-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p align="center">
+  <a href="https://nirab-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:mahmudul5790@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+  <a href="https://github.com/mahmudul-Hasan-2">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm a frontend developer from **Bangladesh** who enjoys building polished interfaces with modern web technologies.
+
+I focus on writing clean UI, reusable components, responsive layouts, authentication systems and scalable frontend architecture.
+
+Currently learning and building production-style applications using **React, Next.js, TypeScript, Express and MongoDB.**
+
+---
+
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel,postman" />
 </p>
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# Featured Projects
 
-### 🌐 Frontend & UI/UX
+<table>
+<tr>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="Frontend Skills" />
-  <br />
-  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
-  <img src="https://img.shields.io/badge/HeroUI-FF007F?style=for-the-badge&logoColor=white" alt="HeroUI" />
-  <img src="https://img.shields.io/badge/Figma_to_Code-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma to Code" />
-</p>
+<td width="50%">
 
-### 🗄️ Backend, Database & Authentication
+### IdeaVault
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
-  <br />
-  <img src="https://img.shields.io/badge/BetterAuth-111111?style=for-the-badge&logoColor=white" alt="BetterAuth" />
-</p>
+Production-ready idea management platform.
+
+**Tech**
+
+Next.js • TypeScript • Express • MongoDB • JWT
+
+**Features**
+
+- Authentication
+- CRUD
+- Search
+- Category Filter
+- Responsive UI
+
+</td>
+
+<td width="50%">
+
+### Developer Portfolio
+
+Modern personal portfolio built with Next.js.
+
+**Highlights**
+
+- Responsive Design
+- Dark UI
+- Smooth Animation
+- SEO Optimized
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Statistics
+## Currently Building
+
+- Full Stack MERN Projects
+- Authentication Systems
+- Dashboard Interfaces
+- REST APIs
+- TypeScript Applications
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmudul-Hasan-2&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Mahmudul's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+
+<a href="mailto:mahmudul5709@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/mahmudul-Hasan-2">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://nirab-dev.vercel.app">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</a>
+
 </p>
 
 ---
 
-> ## 💬 Dev Quote of the Day
->
-> *"We don't build software to handle exceptions; we design systems so errors have nowhere to hide."*
+<div align="center">
 
----
+> *"Build beautiful things. Keep learning. Ship consistently."*
 
-<p align="center">
-  🤝 <strong>Let's connect and build something impactful!</strong>
-</p>
+</div>
