@@ -149,7 +149,7 @@ Modern portfolio built with React, TypeScript & TanStack Router — clean UI, sm
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -162,9 +162,8 @@ Modern portfolio built with React, TypeScript & TanStack Router — clean UI, sm
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
-
 ---
 
 ## Currently Building
