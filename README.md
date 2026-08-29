@@ -5,12 +5,12 @@
   <img src="./banner.png" width="100%" alt="Mahmudul Hasan Banner"/>
   <br><br>
 
-  # Mahmudul Hasan
-  ### Frontend Developer • React • Next.js • TypeScript
+  # Mahmudul Hasan Nirab
+  ### Full-Stack Developer • Next.js • TypeScript • AI
 
-  Building beautiful, responsive and scalable web applications with the MERN ecosystem.
+  Building secure, scalable web apps with React, Next.js, Node.js & AI integrations.
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+User+Interfaces;Always+Learning+%26+Shipping+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js;AI+Integrations+(Gemini);Open+to+Remote+Opportunities"/>
 
   <br>
 
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/mahmudul-hasan-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mahmudul5709@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/mahmudul-Hasan-2">
@@ -32,18 +32,17 @@
 
 ## About Me
 
-I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who enjoys creating polished user experiences with modern web technologies.
+I'm a **Full-Stack Developer** from Bangladesh 🇧🇩 who loves shipping clean, production-ready applications.
 
-- Modern UI with **React & Next.js**
-- Responsive layouts with **Tailwind CSS**
-- Full Stack development with **Node.js + Express + MongoDB**
-- Authentication with **JWT & BetterAuth**
-- Clean reusable component architecture
+- Full-stack apps with **Next.js, TypeScript, Node.js & MongoDB**
+- Modern auth with **Better Auth & JWT**
+- AI-powered features using **Google Gemini**
+- Clean architecture, responsive UI & thoughtful UX
 
 ### Currently
-- Learning advanced Next.js & TypeScript
-- Building production-style MERN applications
-- Looking for remote frontend opportunities
+- Building AI-powered full-stack products
+- Deepening TypeScript & Next.js App Router skills
+- **Open to remote full-stack / frontend roles worldwide**
 
 ---
 
@@ -56,27 +55,60 @@ I'm a passionate **Frontend Developer** from **Bangladesh 🇧🇩** who enjoys 
 
 ### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend Skills"/>
 </p>
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,npm,bash&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,npm,bash&theme=dark" alt="Tools"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌟 IdeaVault
-A production-ready **MERN Idea Management Platform** where users can securely create, organize and manage ideas.
+### 🤖 DevAgent
+Full-stack **AI workspace** — project generation with Gemini, interactive co-pilot chat, and secure workspaces.
+
+**✨ Highlights**
+- Google Gemini multi-step workflows
+- Real-time AI co-pilot chat
+- Secure authentication & protected routes
+- TypeScript end-to-end
+
+**🛠 Tech Stack**  
+`Next.js` `TypeScript` `Express` `MongoDB` `Better Auth` `Gemini`
+
+**🔗 Links**  
+[🌐 Live Demo](https://dev-agent.vercel.app/) · [💻 GitHub](https://github.com/mahmudul-Hasan-2/DevAgent)
+
+---
+
+### 💼 DevCraft
+Premium full-stack item discovery & management platform with search, filters, CRUD and Better Auth.
+
+**✨ Highlights**
+- Better Auth authentication
+- Advanced search & filtering
+- Type-safe data handling
+- Client-side caching for performance
+
+**🛠 Tech Stack**  
+`Next.js` `TypeScript` `Tailwind` `MongoDB` `Better Auth`
+
+**🔗 Links**  
+[🌐 Live Demo](https://dev-craft-lime.vercel.app/) · [💻 GitHub](https://github.com/mahmudul-Hasan-2/DevCraft)
+
+---
+
+### 💡 IdeaVault
+Production-ready idea-sharing platform with JWT auth, nested comments, search and user dashboards.
 
 **✨ Highlights**
 - JWT Authentication
-- CRUD Operations
-- Search & Category Filter
-- Responsive UI
-- MongoDB Database
+- Nested comments system
+- Smart discovery search
+- User dashboards
 
 **🛠 Tech Stack**  
 `Next.js` `TypeScript` `Express.js` `MongoDB` `JWT`
@@ -86,51 +118,43 @@ A production-ready **MERN Idea Management Platform** where users can securely cr
 
 ---
 
-### 💼 Developer Portfolio
-A modern **developer portfolio** built with **React, TypeScript, and TanStack Router**, featuring a clean white-theme UI, smooth animations, and responsive design.
-
-**✨ Highlights**
-- Apple-inspired White UI
-- Responsive Design
-- Smooth Page Transitions
-- Fast Performance
-- Modern Component Architecture
-
-**🛠 Tech Stack**  
-`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Vite`
-
-**🔗 Links**  
-[🌐 Live Website](https://nirab-dev.vercel.app/) · [💻 Source Code](https://github.com/mahmudul-Hasan-2/nirab-dev)
-
----
-
 ### 🍲 RecipeHub
-A full-stack recipe discovery application where users can browse, search and manage recipes with authentication support.
+Full-stack recipe discovery app with Better Auth, smart search, dark mode and smooth animations.
 
 **✨ Highlights**
-- Recipe Search
-- Categories
-- Favorites
-- Authentication
-- Fully Responsive
+- Better Auth + dark/light mode
+- Search by category & difficulty
+- Framer Motion micro-interactions
+- Fully responsive
 
 **🛠 Tech Stack**  
-`React` `Express.js` `MongoDB` `Tailwind CSS`
+`Next.js` `Express.js` `MongoDB` `Tailwind` `Better Auth` `Framer Motion`
 
 **🔗 Links**  
 [🌐 Live Demo](https://recipehub-client.vercel.app/) · [💻 Client](https://github.com/mahmudul-Hasan-2/RecipeHub-Client) · [⚙️ Server](https://github.com/mahmudul-Hasan-2/RecipeHub-Server)
 
 ---
 
+### 🌐 Developer Portfolio
+Modern portfolio built with React, TypeScript & TanStack Router — clean UI, smooth animations, fully responsive.
+
+**🛠 Tech Stack**  
+`React` `TypeScript` `TanStack Router` `Tailwind CSS` `Vite`
+
+**🔗 Links**  
+[🌐 Live Website](https://nirab-dev.vercel.app/) · [💻 Source](https://github.com/mahmudul-Hasan-2/nirab-dev)
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-virid-ten-12.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmudul-Hasan-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=mahmudul-Hasan-2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&style=for-the-badge&color=38bdf8" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mahmudul-Hasan-2&style=for-the-badge&color=8b5cf6" alt="Profile views"/>
 </p>
 
 ---
@@ -138,90 +162,16 @@ A full-stack recipe discovery application where users can browse, search and man
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-virid-ten-12.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=mahmudul-Hasan-2&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-Hasan-2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
 
 ## Currently Building
-
-- Modern MERN Stack Projects
-- Dashboard Interfaces
-- Authentication Systems
-- REST APIs
-- TypeScript Applications
-- UI Component Library
-
----
-
-## 🚀 Tech Stack Mastery
-
-<table>
-  <tr>
-    <td width="240">🌐 HTML5</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🎨 CSS3</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>💨 Tailwind CSS</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🟨 JavaScript (ES6+)</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>⚛️ React</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>▲ Next.js</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🔷 TypeScript</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🟢 Node.js</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🚀 Express.js</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🍃 MongoDB</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🔥 Firebase</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🔐 JWT Authentication</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🌍 REST API</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-  <tr>
-    <td>🐙 Git & GitHub</td>
-    <td><code>██████████ 100%</code></td>
-  </tr>
-</table>
+- AI-powered full-stack applications
+- Production-grade authentication systems
+- Type-safe Next.js + Express architectures
+- Clean, reusable component systems
 
 ---
 
@@ -245,6 +195,6 @@ A full-stack recipe discovery application where users can browse, search and man
 ---
 
 <div align="center">
-  <h3>Thanks for visiting my profile ✨</h3>
-  <p><em>"Build beautiful things. Keep learning. Ship consistently."</em></p>
+  <h3>Thanks for visiting ✨</h3>
+  <p><em>"Build clean things. Ship consistently. Keep learning."</em></p>
 </div>
